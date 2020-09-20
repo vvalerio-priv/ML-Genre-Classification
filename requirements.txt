@@ -1,4 +1,0 @@
-keras
-librosa
-numpy
-tensorflow
